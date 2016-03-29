@@ -1,4 +1,4 @@
-package eu.mondo.map.visualizer
+package hu.bme.mit.emf2yed
 
 import java.util.HashMap
 import java.util.List

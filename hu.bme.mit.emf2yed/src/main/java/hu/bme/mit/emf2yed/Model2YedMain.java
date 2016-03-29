@@ -23,7 +23,6 @@ import org.eclipse.emf.ecore.resource.ResourceSet;
 import org.eclipse.emf.ecore.resource.impl.ResourceSetImpl;
 import org.eclipse.emf.ecore.xmi.impl.XMIResourceFactoryImpl;
 
-import eu.mondo.map.visualizer.Model2Yed;
 import hu.bme.mit.trainbenchmark.railway.RailwayPackage;
 
 public class Model2YedMain {
